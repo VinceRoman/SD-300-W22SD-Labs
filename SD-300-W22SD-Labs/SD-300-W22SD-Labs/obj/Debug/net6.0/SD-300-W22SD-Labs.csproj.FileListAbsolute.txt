@@ -1,0 +1,15 @@
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\bin\Debug\net6.0\SD-300-W22SD-Labs.exe
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\bin\Debug\net6.0\SD-300-W22SD-Labs.deps.json
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\bin\Debug\net6.0\SD-300-W22SD-Labs.runtimeconfig.json
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\bin\Debug\net6.0\SD-300-W22SD-Labs.dll
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\bin\Debug\net6.0\SD-300-W22SD-Labs.pdb
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\SD-300-W22SD-Labs.csproj.AssemblyReference.cache
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\SD-300-W22SD-Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\SD-300-W22SD-Labs.AssemblyInfoInputs.cache
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\SD-300-W22SD-Labs.AssemblyInfo.cs
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\SD-300-W22SD-Labs.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\SD-300-W22SD-Labs.dll
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\refint\SD-300-W22SD-Labs.dll
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\SD-300-W22SD-Labs.pdb
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\SD-300-W22SD-Labs.genruntimeconfig.cache
+C:\Users\vince\source\repos\SD-300-W22SD-Labs\SD-300-W22SD-Labs\SD-300-W22SD-Labs\obj\Debug\net6.0\ref\SD-300-W22SD-Labs.dll

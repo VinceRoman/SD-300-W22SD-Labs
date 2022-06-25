@@ -152,3 +152,62 @@ string decompressor(string inputData)
 
     return sb.ToString();
 }
+
+
+Product cheetos = new Product("cheetos",13, "A01");
+VendingMachine VM = new VendingMachine(1000233983);
+
+Console.WriteLine(VM.StockItem(cheetos, 3));
+
+VM.testReturn(cheetos);
+
+//-----------------------------------------------------------------------------
+class VendingMachine
+{
+    public int SerialNum { get; set; }
+    public Dictionary<int, int> MoneyFloat { get; set; }
+    public Dictionary<Product, int> Inventory = new Dictionary<Product, int>();
+
+    public VendingMachine(int serialInput)
+    {
+        SerialNum = serialInput;
+    }
+    public string StockItem(Product product, int quantity)
+    {
+        Inventory.Add(product, quantity);
+        return "Item added to vending machine: " + product.Name +" $"+ product.Price+".00 code: " + product.Code;
+    }
+
+    public void StockFloat(int moneyDenomination, int quantity)
+    {
+
+    }
+    public void VendItem(string code, List<int> money)
+    {
+        foreach(Product element in Inventory)
+        {
+            Console.WriteLine(Product.Name);
+        }
+    }
+    public void testReturn(Product searchItem)
+    {
+        if (Inventory.ContainsKey(searchItem))
+        {
+            Console.WriteLine("Available");
+        }
+    }
+}
+
+class Product
+{
+    public string Name { get; set; }
+    public int Price { get; set; }
+    public string Code { get; set; }
+
+    public Product(string name, int price, string code)//constructor
+    {
+        Name = name;
+        Price = price;
+        Code = code;
+    }
+}
